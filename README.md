@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the "HomeSync" project! HomeSync is a digital companion designed to provide support and assistance to users in organizing their schedules, managing tasks, and facilitating communication. This versatile virtual assistant integrates features such as calendar management, task tracking, messaging, bill payments, room activity scheduling, and travel information management. The goal is to streamline daily routines, enhance organization, and improve overall productivity and efficiency for users. To take a look at the final website, check this video [here]()
+Welcome to the "HomeSync" project! HomeSync is a digital companion designed to provide support and assistance to users in organizing their schedules, managing tasks, and facilitating communication. This versatile virtual assistant integrates features such as calendar management, task tracking, messaging, bill payments, room activity scheduling, and travel information management. The goal is to streamline daily routines, enhance organization, and improve overall productivity and efficiency for users. To take a look at the final website, check this video [here](https://drive.google.com/drive/folders/1lPT9qUUTL7GtPmA5weZKW3Py2xsI1rhp)
 
 ## Milestone 1: Entity-Relationship Diagram (EERD)
 
