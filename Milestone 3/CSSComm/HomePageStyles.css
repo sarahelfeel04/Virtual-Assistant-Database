@@ -1,0 +1,46 @@
+﻿/* Add this CSS to your existing stylesheet or create a new one */
+
+.home-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right bottom, #3498db, #8e44ad); /* Gradient with more emphasis on purple */
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.widget {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.9)); /* Light background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 10px;
+    width: 250px; /* Adjust the width as needed */
+    box-sizing: border-box;
+    transition: background 0.3s ease;
+}
+
+    .widget:hover {
+        background: linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.95)); /* Slightly darker on hover */
+    }
+
+.my-profile-box {
+    background: linear-gradient(to right, #e74c3c, #c0392b); /* Red gradient for My Profile */
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 10px;
+    width: 300px; /* Adjust the width as needed */
+    box-sizing: border-box;
+    transition: background 0.3s ease;
+}
+
+    .my-profile-box:hover {
+        background: linear-gradient(to right, #c0392b, #a93226); /* Darker red on hover */
+    }

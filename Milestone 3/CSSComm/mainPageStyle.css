@@ -1,0 +1,54 @@
+﻿/* Body Styles */
+body {
+    background-color: #ffffff; /* White background */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Page Title Styles */
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.welcome-section {
+    text-align: center; /* Center the content horizontally */
+    padding: 50px; /* Add some padding for better spacing */
+}
+
+.welcome-label {
+    font-size: 4.5em; /* Adjust the font size as needed */
+    color: #5e6ab3; /* Use the desired color */
+    font-weight: bold;
+    /* Add any other styles you desire for a modern look */
+}
+/* Button Container Styles */
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Button Styles */
+.button {
+    margin: 20px;
+    padding: 80px 160px;
+    font-size: 2.6em;
+    background: linear-gradient(to right, #5e6ab3, #b993d6);
+    color: white;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+
+   
+
+    /* Hover Effect */
+    .button:hover {
+        filter: brightness(1.2); /* Increase brightness on hover */
+        transform: scale(1.1); /* Scale up on hover */
+    }
+
+
+

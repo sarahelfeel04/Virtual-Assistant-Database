@@ -1,0 +1,76 @@
+﻿/* CSS for Signup Page */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right bottom, #3498db, #8e44ad);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-form {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.9)), url('pattern.png');
+    background-blend-mode: screen;
+    padding: 20px; /* Decreased padding */
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 90%; /* Adjusted width */
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+.logo {
+    font-size: 28px; /* Decreased font size */
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 15px; /* Increased margin */
+}
+
+.login-container {
+    color: #000;
+}
+
+.form-label {
+    display: block;
+    font-size: 14px; /* Decreased font size */
+    color: #000;
+    margin-bottom: 10px; /* Decreased margin */
+}
+
+.form-input {
+    width: calc(100% - 28px); /* Adjusted width */
+    padding: 12px; /* Decreased padding */
+    margin: 8px 0; /* Decreased margin */
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.form-button {
+    background: linear-gradient(to right, #3498db, #2980b9);
+    color: #fff;
+    padding: 12px 20px; /* Decreased padding */
+    font-size: 16px; /* Decreased font size */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .form-button:hover {
+        background: linear-gradient(to right, #2980b9, #1f618d);
+    }
+
+.register-section {
+    margin-top: 20px; /* Decreased margin */
+}
+
+.error-label {
+    display: block;
+    margin-bottom: 8px; /* Decreased margin */
+    color: #e74c3c;
+}
