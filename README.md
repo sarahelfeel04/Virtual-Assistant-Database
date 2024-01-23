@@ -1,2 +1,36 @@
-# Virtual-Assistant-Database
-HomeSync is a digital companion designed to provide support and assistance to users in organizing their schedules, managing tasks, and facilitating communication. This database manages your every day needs !
+# HomeSync Virtual Assistant Database Project
+
+## Project Overview
+
+Welcome to the "HomeSync" project! HomeSync is a digital companion designed to provide support and assistance to users in organizing their schedules, managing tasks, and facilitating communication. This versatile virtual assistant integrates features such as calendar management, task tracking, messaging, bill payments, room activity scheduling, and travel information management. The goal is to streamline daily routines, enhance organization, and improve overall productivity and efficiency for users. To take a look at the final website, check this video [here]()
+
+## Milestone 1: Entity-Relationship Diagram (EERD)
+
+In Milestone 1, we focused on designing the database structure using an Entity-Relationship Diagram (EERD). The EERD captures the relationships and entities relevant to HomeSync's functionalities. We carefully analyzed the project description and used the EERD to create a schema that ensures a robust foundation for the database.
+### A snippet of the EERD:
+![Screenshot](C:\Users\Sarah Ahmed\AppData\Local\Temp\e4a955b0-f909-4c07-b580-7f4dc1428cdd_M1.zip.cdd\Team 3\M1 PNG LOW.png)
+
+## Milestone 2: SQL Implementation
+
+Milestone 2 involved the implementation of the database using SQL. This milestone covered the creation of tables, procedures, execution calls, and insertions. We translated the EERD into a functional SQL-based backend, ensuring that it aligns with the project's requirements. This step laid the groundwork for the database's core functionality. We also applied some defensive programming mechanisms to avoid any illegal operations.
+
+## Milestone 3: ASP.NET Integration
+
+In Milestone 3, we seamlessly connected the SQL-based backend with the frontend, which is written in HTML and CSS, using ASP.NET. This integration ensures a cohesive and responsive user experience. Users can now interact with HomeSync's features through a user-friendly interface, accessing their calendars, managing tasks, and enjoying the full spectrum of virtual assistant capabilities.
+
+## How to Use
+
+1. **Download and Setup:**
+   - Clone the repository to your local machine.
+   - Ensure you have SQL Server installed for database operations (recommended IDE: Visual Studio).
+
+2. **Milestone 1: EERD**
+   - Explore the EERD diagrams and Schema in the 'Milestone1' directory to understand the database structure.
+
+3. **Milestone 2: SQL Implementation**
+   - Execute SQL scripts in the 'Milestone2' directory to create tables, procedures, and perform necessary insertions. Make sure to connect to the server locally (Visual Studio).
+
+4. **Milestone 3: ASP.NET Integration**
+   - Navigate to the 'Milestone3' directory and launch the ASP.NET project to access the HomeSync virtual assistant.
+   - Install ASP.NET package on Visual Studio, and open the .sln file. You are now ready to run the project from chrome/safari/edge.
+
