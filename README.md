@@ -8,7 +8,8 @@ Welcome to the "HomeSync" project! HomeSync is a digital companion designed to p
 
 In Milestone 1, we focused on designing the database structure using an Entity-Relationship Diagram (EERD). The EERD captures the relationships and entities relevant to HomeSync's functionalities. We carefully analyzed the project description and used the EERD to create a schema that ensures a robust foundation for the database.
 ### A snippet of the EERD:
-![Screenshot](C:\Users\Sarah Ahmed\AppData\Local\Temp\e4a955b0-f909-4c07-b580-7f4dc1428cdd_M1.zip.cdd\Team 3\M1 PNG LOW.png)
+![M1 PNG LOW](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/355850d2-4195-4235-a1a6-435120cabfd9)
+
 
 ## Milestone 2: SQL Implementation
 
