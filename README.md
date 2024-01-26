@@ -22,7 +22,8 @@ In Milestone 3, we seamlessly connected the SQL-based backend with the frontend,
 
 ### Snippets from the website
 ![Screen Shot 2024-01-23 at 3 13 37 AM](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/a444b3f6-5ec2-47a6-ba32-48f25c33d8bc)
-![Screen Shot 2024-01-23 at 3 14 06 AM](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/351539f5-89a4-4266-8d49-4308aa2d1512)
+![Screenshot (3)](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/c99081b7-3ae3-4241-9887-c36865655593)
+![Screenshot (4)](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/75c9e6a1-8fd3-4776-9627-50f3fec5745e)
 ![WhatsApp Image 2024-01-23 at 3 17 08 AM](https://github.com/sarahelfeel04/Virtual-Assistant-Database/assets/142936159/f25dc43d-a04f-4509-8901-609b1fd67ba1)
 
 
